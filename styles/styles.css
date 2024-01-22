@@ -2,6 +2,24 @@
     font-family: 'Manrope', sans-serif;
 }
 
+
+/*  */
+.my-program-bg-1{
+    background: url("../images/2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+
+}
+
+.my-carousel-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.3);
+}
+
+/* clients question */
 .my-bg-img{
     background-image:  url("../images/11.png");
     background-repeat: no-repeat;
