@@ -1,0 +1,12 @@
+*{
+    font-family: 'Manrope', sans-serif;
+}
+
+.my-bg-img{
+    background-image:  url("../images/11.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+}
