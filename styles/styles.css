@@ -1,35 +1,56 @@
-*{
-    font-family: 'Manrope', sans-serif;
+* {
+  font-family: "Manrope", sans-serif;
 }
 
-
 /*  */
-.my-program-bg-1{
-    background: url("../images/2.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-   
+.my-program-bg-1 {
+  background: url("../images/2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 
+/* product bg */
+.product-bg-1 {
+  /* background-image: url("../Images/5.png");
+    background-repeat: no-repeat;
+    
+    background-size: cover; */
+
+  /* background-position-x: center; */
+  border-radius: 12px;
+  background: url("../Images/5.png"), lightgray 50% / cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* .product-bg-2 {
+  border-radius: 12px;
+  background: url("../Images/6.png"), lightgray 50% / cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
+/* ============= */
+.p-img-1 {
+  width: 100%;
+  object-fit: cover;
 }
 
 .my-carousel-img {
-    height: 100%;
-    object-fit: cover;
-    filter: brightness(0.3);
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.3);
 }
 
 /* clients question */
-.my-bg-img{
-    background-image:  url("../images/11.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    
-
+.my-bg-img {
+  background-image: url("../images/11.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 /*  */
-.my-width{
-    width: 100% !important;
+.my-width {
+  width: 100% !important;
 }
